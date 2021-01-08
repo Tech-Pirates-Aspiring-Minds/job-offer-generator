@@ -21,9 +21,9 @@ _ **Source Code GIT Repository:** _
 
 _ **Frameworks:** _
 
-**Job Offer Letter Geneartor**
+**Job Offer Letter Generator**
 
-The Job offer letter generator is based on java based application. This application allows users to create pre-defined templates (Ex: job offer letter, Bill., etc.) With dynamic fields. We should provide data for dynamic fields via excel at the time of report/letter generation. This application reduce manual efforts and consumes times.
+The Job offer letter generator is based on Front end as angular and back end as spring boot. This application allows users to create pre-defined templates (Ex: job offer letter, Bill., etc.) With dynamic fields. We should provide data for dynamic fields via excel at the time of report/letter generation. This application reduce manual efforts and times saving.
 
 **Application Process Flow:**
 
