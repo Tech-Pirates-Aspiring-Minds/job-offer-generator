@@ -1,1 +1,2 @@
-# job-offer-generator
+# job-offer-app
+ 
